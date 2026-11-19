@@ -1,4 +1,4 @@
 //Hello i am new to github. I just started learning it.
 //latent coder
 I am now learning git fetch
-let is do some practice.
+let us do some practice.
